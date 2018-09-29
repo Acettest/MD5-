@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5加密", "MD5加密\MD5加密.csproj", "{0DF726AF-1E4A-4BDA-9871-A6A25F45BBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD5Encrypt", "MD5Encrypt\MD5Encrypt.csproj", "{8A3BDA44-BDB2-4B30-BA1E-A87A0EB0E08F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DF726AF-1E4A-4BDA-9871-A6A25F45BBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF726AF-1E4A-4BDA-9871-A6A25F45BBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF726AF-1E4A-4BDA-9871-A6A25F45BBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF726AF-1E4A-4BDA-9871-A6A25F45BBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A3BDA44-BDB2-4B30-BA1E-A87A0EB0E08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A3BDA44-BDB2-4B30-BA1E-A87A0EB0E08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A3BDA44-BDB2-4B30-BA1E-A87A0EB0E08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A3BDA44-BDB2-4B30-BA1E-A87A0EB0E08F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
